@@ -1,2 +1,35 @@
-# My-Projects-
-Project Overview An end-to-end Banking Analytics Dashboard built in  Power BI analyzing 39,000+ loan records to provide  actionable insights on loan performance, customer  risk and branch analytics.
+🏦 Bank Vision Analytics Dashboard
+
+Hero Image
+
+Business Problem
+
+Dashboard Preview
+
+KPIs
+
+Dataset
+
+Data Cleaning
+
+Power Query
+
+Data Model
+
+DAX Measures
+
+Dashboard Pages
+
+Business Insights
+
+Recommendations
+
+Project Folder Structure
+
+Tools Used
+
+How to Use
+
+Future Improvements
+
+Contact
